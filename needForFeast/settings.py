@@ -11,6 +11,7 @@ env = environ.Env(
     DEBUG=(bool, False)
 )
 SECRET_KEY = env('SECRET_KEY')
+# SECRET_KEY ="h9_9a#f8f%490%zv&g7_b9wq^03k(^(s@x5bl6$fu#okruj9^_"
 
 # SECURITY WARNING: keep the secret key used in production secret!
 # SECRET_KEY = "django-insecure-@6r6rblfonji^aiccg0%-lu7&g!4!uhiqm#4!(y@x(w_gz6w-)"
