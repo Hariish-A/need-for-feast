@@ -33,7 +33,7 @@ def loginPage(request):
             messages.error(request, "Incorrect username or password")
 
 
-    return render(request, "base/login_register.html")
+    return render(request, "base/login_register2.html")
 
 def logoutUser(request):
     logout(request)

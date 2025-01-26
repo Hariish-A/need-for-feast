@@ -137,9 +137,6 @@ class Restaurant(models.Model):
     def __str__(self):
         return f"{self.name1}"
 
-
-
-
 class Items(models.Model):
 
     class Cusine(models.TextChoices):
