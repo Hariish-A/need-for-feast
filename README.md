@@ -7,7 +7,7 @@ Role based interfaces are provided for Customer, Shop owners and Deliverer.
 Used `django` for backend, django templates with `CSS` for frontend and `sqlite3` for the database.
 
 ## ERD
-![ERD of the food delivery system](https://github.com/hajay180505/need-for-feast/blob/main/ERD.jpg)
+![ERD of the food delivery system](https://github.com/hajay180505/need-for-feast/blob/main/ERD-nff.png)
 
 ## Installation
 1. Clone the repository
